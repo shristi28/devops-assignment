@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYECtNgy/RuyM6zEbks61ejMVG+u42g7UJZug5USAYHLbxmgcB50j1VqDLTbCeo861bYaZKu1OaHB83nvyzElg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shristi\\source\\repos\\devops assign\\devops assign\\devops assign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shristi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
